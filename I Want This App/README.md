@@ -4,5 +4,4 @@ This is a Shortcut that allows you to store a collection of apps. On the App Sto
 ### TODO
 - Add ability to remove apps from list 
 - More attractive list preview 
-- UpdateKit support 
-- 
+- UpdateKit support
